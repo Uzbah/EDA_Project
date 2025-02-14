@@ -126,7 +126,7 @@ pip install -r requirements.txt
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ## 👤 Author
-[Ubzbah Naseem]
+[Uzbah Naseem]
 - GitHub: [https://github.com/Uzbah]
 - LinkedIn: [www.linkedin.com/in/uzbah-naseem]
 
